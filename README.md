@@ -5,11 +5,8 @@ This repository contains a collection of scripts for managing data in PostgreSQL
 ## Table of Contents
 
 - [Tasks](#tasks)
-- [Requirements](#requirements)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Tasks
 
 ### Task 1: Events Management
